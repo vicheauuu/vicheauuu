@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vicheauuu
+- 👀 I’m interested in IT WORLD
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on myself
+- 📫 How to reach me instagram: @vicheauuu
