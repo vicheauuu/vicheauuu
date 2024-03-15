@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicheauuu
+- 👋 Hi, I’m @curnic.victor (Instagram)
 - 👀 I’m interested in IT WORLD
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on myself
