@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @curnic.victor (Instagram)
 - 👀 I’m interested in IT WORLD
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C#, JAVA
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me instagram: @curnic.victor
