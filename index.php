@@ -60,6 +60,7 @@ if (isset($_GET['cancel']) && isset($_SESSION['cos'][$_GET['cancel']])) {
                         <th>Total</th>
                         <th>Acțiune</th>
                     </tr>
+                    <!-- modified -->
                 </thead>
                 <tbody>
                     <?php if (isset($_SESSION['cos']) && !empty($_SESSION['cos'])): ?>
